@@ -1,0 +1,20 @@
+{
+  "name": "grunt_bower_rjs_anular",
+  "version": "0.0.0",
+  "authors": [
+    "whao_mobile <haowei@csdn.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.20",
+    "angularjs": "~1.4.3",
+    "jquery": "~2.1.4"
+  }
+}
